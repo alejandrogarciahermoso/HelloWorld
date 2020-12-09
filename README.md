@@ -11,3 +11,5 @@ Cosas pendientes:
 Puedes consultar mi perfil para contactarme.
 
 #### Cambios nuevos
+
+** ESTOS CAMBIOS SOLO SE VERÁN POR AHORA EN MI NUEVA RAMA **
